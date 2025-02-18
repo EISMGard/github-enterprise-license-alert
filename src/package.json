@@ -9,6 +9,6 @@
   "author": "Ben Francom",
   "license": "MIT",
   "dependencies": {
-    "octokit": "^3.1.2"
+    "octokit": "^4.1.2"
   }
 }
